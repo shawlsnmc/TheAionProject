@@ -12,7 +12,7 @@ namespace TheAionProject
     public static class Text
     {
         public static List<string> HeaderText = new List<string>() { "The Aion Project" };
-        public static List<string> FooterText = new List<string>() { "Laughing Leaf Productions, 2016" };
+        public static List<string> FooterText = new List<string>() { "Lame Headache Productions, 2016" };
 
         #region INTITIAL GAME SETUP
 
